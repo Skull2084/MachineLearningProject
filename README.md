@@ -1,6 +1,13 @@
 # MachineLearningProjectQuentinGaidier
 Machine learning Project of Quentin Gaidier A4 OCC2 about Network Intrusion Detection
-Voici une **version courte et adaptée** du README, conforme exactement à ton workflow (Preprocessing → PCA → 4 algorithms incl. Random Forest → Evaluation).
+
+TODO : 
+- Exploration vla + de trucs pour le rapport
+- Use of les deux dataset train test
+- Rapport
+- use of bagging voting stacking
+- powerpoint + video
+- Gridsearch
 
 ## Network Intrusion Detection – UNSW-NB15
 
