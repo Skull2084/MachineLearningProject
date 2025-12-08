@@ -1,14 +1,6 @@
 # MachineLearningProjectQuentinGaidier
 Machine learning Project of Quentin Gaidier A4 OCC2 about Network Intrusion Detection
 
-TODO : 
-- Exploration vla + de trucs pour le rapport
-- Use of les deux dataset train test
-- Rapport
-- use of bagging voting stacking
-- powerpoint + video
-- Gridsearch
-
 ## Network Intrusion Detection – UNSW-NB15
 
 This project applies Machine Learning techniques to detect network intrusions using the UNSW-NB15 dataset.
